@@ -1,3 +1,14 @@
+---
+title: LegalLLaMa
+emoji: 🐠
+colorFrom: yellow
+colorTo: blue
+sdk: streamlit
+sdk_version: 1.21.0
+app_file: app.py
+pinned: false
+license: gpl-3.0
+---
 # LegalLLaMa 🦙 (*WORK IN PROGRESS*)
 LegalLLaMa: Your friendly neighborhood lawyer llama, turning legal jargon into a piece of cake!
 
